@@ -8,7 +8,7 @@ const services: Service[] = [
   { title: 'Personal Branding', description: 'Personal branding services help individuals and professionals build and maintain a strong, compelling online presence in today’s digital world.', icon: '📊' },
   { title: 'Video Editing', description: 'Expert editors transform raw footage into professional, engaging videos tailored to meet your specific needs and preferences.', icon: '🎬' },
   { title: 'Social Media Management', description: 'We develop social media strategies, schedule content, and engage with audiences to boost brand visibility and engagement.', icon: '📱' },
-  { title: 'Graphics Designing', description: 'Our graphic design services include logo creation, branding, social media graphics, and web design to enhance your visual identity.', icon: '✍️' },
+  { title: 'Graphics Designing', description: 'Our graphic design services include logo creation, branding, social media graphics, and web design to enhance your visual identity.', icon: '🎨' },
   { title: 'Content Writing', description: 'Quality content drives content marketing success. Our writers create engaging, informative content across various niches to support your strategy.', icon: '✍️' },
   { title: 'Web Development', description: 'Web development services create stunning websites that enhance online presence, captivate audiences, and deliver measurable results.', icon: '💻' }
 ];
