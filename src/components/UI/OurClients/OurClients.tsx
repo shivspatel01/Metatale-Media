@@ -5,7 +5,7 @@ import Image from "next/image";
 import ajayImage from "../../../../public/images/ajay.jpg";
 // import ajayImage from "../../../../public/images/ajay.jpg";
 import himanshuImage from "../../../../public/images/himanshu.webp";
-import akashImage from "../../../../public/images/akash.jpg";
+// import akashImage from "../../../../public/images/akash.jpg";
 import saifImage from "../../../../public/images/saif.png";
 import {
   Container,
@@ -30,11 +30,11 @@ const clients = [
     text: "Working with MetaTale Media has been a game-changer for my videos. The attention to detail in video editing is unmatched, and they truly know how to bring my content to life. Sumit and the team at MetaTale are not just editors; they are storytellers. The seamless process from conceptualization to the final cut exceeded my expectations. My audience engagement has soared, all thanks to the creative touch MetaTale adds to each video. Highly recommend them to any content creator looking to level up their game!",
     name: "Himanshu Rai",
   },
-  {
-    image: akashImage,
-    text: "I have been working with Sumit for the past few months and to be very honest. It has been just an amazing journey. This guy is right there available for you whenever you need him and he is going to make sure that you are satisfied with your content before it goes, would definitely recommend him any day.",
-    name: "Akash Bhalla",
-  },
+  // {
+  //   image: akashImage,
+  //   text: "I have been working with Sumit for the past few months and to be very honest. It has been just an amazing journey. This guy is right there available for you whenever you need him and he is going to make sure that you are satisfied with your content before it goes, would definitely recommend him any day.",
+  //   name: "Akash Bhalla",
+  // },
   {
     image: saifImage,
     text: "MetaTale Media turned our company presentation into a masterpiece! Sumit and his team took our ideas and magically transformed them into a video that speaks to our audience. Their attention to detail and creativity shone through, making our edtech platform, 'TheFasttrick,' look its absolute best. Working with them felt like having a friend in the creative process, understanding our goals and bringing them to life.",
