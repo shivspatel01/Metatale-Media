@@ -3,6 +3,7 @@ import React, { useState, useRef } from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import ajayImage from "../../../../public/images/ajay.jpg";
+// import ajayImage from "../../../../public/images/ajay.jpg";
 import himanshuImage from "../../../../public/images/himanshu.webp";
 import akashImage from "../../../../public/images/akash.jpg";
 import saifImage from "../../../../public/images/saif.png";
